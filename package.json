@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "uniqid": "^4.1.1",
+    "validator": "^9.2.0"
+  }
+}
